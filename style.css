@@ -1,0 +1,20 @@
+a {
+    text-decoration: none;
+    color: #8ec487;
+}
+
+body {
+    margin: 10;
+    background: #1f2937;
+}
+
+.header {
+    background: #263750;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo img{
+    height: 125px;
+    width: 150px;
+}
